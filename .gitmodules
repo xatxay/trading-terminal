@@ -1,0 +1,6 @@
+[submodule "terminal-backend/Trading-Terminal-Backend"]
+	path = terminal-backend/Trading-Terminal-Backend
+	url = https://github.com/xatxay/Trading-Terminal-Backend.git
+[submodule "terminal-frontend/Trading-Terminal-Frontend"]
+	path = terminal-frontend/Trading-Terminal-Frontend
+	url = https://github.com/xatxay/trading-terminal-frontend.git
