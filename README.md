@@ -17,7 +17,8 @@ To clone the repository, use the following commands:
 ```sh
 git clone https://github.com/xatxay/Trading-Terminal-Backend.git
 git clone https://github.com/xatxay/trading-terminal-frontend.git
-cd newsscrape
+cd Trading-Terminal-Backend
+cd trading-terminal-frontend
 npm install
 ```
 
